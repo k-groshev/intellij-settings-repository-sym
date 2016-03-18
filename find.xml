@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
+    <option name="defaultScopeName" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
+    <option name="FILE_MASK" value="*.xml" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css</mask>
+      <mask>*Dao*.java</mask>
+      <mask>*.java, *.xml</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<templateSet group="Web Services">
+  <template name="mjo" value="try {&#10;  // create a JAXBContext capable of handling classes generated into package&#10;  javax.xml.bind.JAXBContext jaxbContext = javax.xml.bind.JAXBContext.newInstance( &quot;$mypackage$&quot; );&#10;  // create an object to marshal&#10;  $Type$ $object$ = new $Type$();&#10;  // create a Marshaller and do marshal&#10;  javax.xml.bind.Marshaller marshaller = jaxbContext.createMarshaller();&#10;  marshaller.setProperty( javax.xml.bind.Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE );&#10;  marshaller.marshal( $object$, new java.io.FileOutputStream(&quot;$filename$&quot;) );&#10;} catch( javax.xml.bind.JAXBException je ) {&#10;  je.printStackTrace();&#10;} catch( java.io.FileNotFoundException io ) {&#10;  io.printStackTrace();&#10;}" description="Generate JAXB object 2 xml serialization" toReformat="true" toShortenFQNames="true">
+    <variable name="mypackage" expression="complete()" defaultValue="&quot;mypackage&quot;" alwaysStopAt="true" />
+    <variable name="Type" expression="&quot;TypeToMarshal&quot;" defaultValue="&quot;TypeToMarshal&quot;" alwaysStopAt="true" />
+    <variable name="object" expression="&quot;objectToMarshal&quot;" defaultValue="&quot;objectToMarshal&quot;" alwaysStopAt="true" />
+    <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
