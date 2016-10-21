@@ -725,11 +725,15 @@
     </library>
     <library name="ECLIPSE">
       <CLASSES>
-        <root url="file://C:/java_ee/soft/eclipse-reporting-mars-R-win32-x86_64/eclipse/plugins" />
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
-      <jarDirectory url="file://C:/java_ee/soft/eclipse-reporting-mars-R-win32-x86_64/eclipse/plugins" recursive="true" />
+      <SOURCES>
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
