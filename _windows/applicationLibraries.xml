@@ -735,5 +735,12 @@
       <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" />
       <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" type="SOURCES" />
     </library>
+    <library name="org.eclipse.team.core_3.7.0.v20130514-1224">
+      <CLASSES>
+        <root url="jar://C:/java_ee/apps/test_symta_gradle/libs/org.eclipse.team.core_3.7.0.v20130514-1224.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
