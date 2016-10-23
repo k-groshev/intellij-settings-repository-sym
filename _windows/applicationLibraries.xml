@@ -725,11 +725,22 @@
     </library>
     <library name="ECLIPSE">
       <CLASSES>
-        <root url="file://C:/java_ee/soft/eclipse-reporting-mars-R-win32-x86_64/eclipse/plugins" />
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/eclipse-rcp-neon-win32-x86_64_all/plugins" recursive="false" type="SOURCES" />
+    </library>
+    <library name="org.eclipse.team.core_3.7.0.v20130514-1224">
+      <CLASSES>
+        <root url="jar://C:/java_ee/apps/test_symta_gradle/libs/org.eclipse.team.core_3.7.0.v20130514-1224.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-      <jarDirectory url="file://C:/java_ee/soft/eclipse-reporting-mars-R-win32-x86_64/eclipse/plugins" recursive="true" />
     </library>
   </component>
 </application>
