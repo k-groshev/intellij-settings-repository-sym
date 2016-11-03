@@ -1,6 +1,6 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <font>
-    <option name="EDITOR_FONT_NAME" value="PragmataPro" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
