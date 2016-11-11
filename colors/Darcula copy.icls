@@ -1,7 +1,6 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="modified">2016-11-11T15:24:09</property>
-    <property name="rainbow Default language">true</property>
+    <property name="modified">2016-11-11T17:18:00</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
