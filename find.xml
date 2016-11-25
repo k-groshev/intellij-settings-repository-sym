@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
-    <option name="defaultScopeName" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\java_ee\apps\dis-jsp\project\web'" />
+    <option name="customScope" value="Project 'fusiongwtp'" />
+    <option name="defaultScopeName" value="Project 'fusiongwtp'" />
+    <option name="SEARCH_SCOPE" value="Project 'fusiongwtp'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
