@@ -5,9 +5,7 @@
     <variable name="object" expression="&quot;objectToMarshal&quot;" defaultValue="&quot;objectToMarshal&quot;" alwaysStopAt="true" />
     <variable name="filename" expression="complete()" defaultValue="&quot;filename.xml&quot;" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="CSS_DECLARATION_BLOCK" value="true" />
-      <option name="GROOVY_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
