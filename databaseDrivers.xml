@@ -1,8 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="h2.unified" name="H2" dialect="H2">
-      <artifact name="H2" use="true" />
+      <artifact name="H2" use="true" version="1.4.192" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="9e212bcb-cac6-475f-8cec-f42aa56f7f53" name="1hibernate.cfg.xml driver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver" icon="AllIcons.Providers.Oracle">
       <url-template name="Service Name" template="jdbc:oracle:{driver:variants:thin:Thin=thin,OCI=oci,OCI8=oci8}:[{user}[/{password}]]@//{host::localhost}?[:{port::1521}]/{service:database:XE}" />
