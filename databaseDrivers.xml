@@ -16,7 +16,7 @@
       </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <artifact name="Oracle" use="true" />
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
       <library>
