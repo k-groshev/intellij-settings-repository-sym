@@ -1,7 +1,6 @@
 <application>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
-      <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.6.0" />
       <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.6.1" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.6.1" />
@@ -717,6 +716,7 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.6.1" />
       <gwt-sdk url="file://C:/java_ee/soft/gwt-2.8.0/gwt-2.8.0" />
       <gwt-sdk url="file://C:/java_ee/soft/gwt-2.7.0/gwt-2.7.0" />
+      <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.6.0" />
     </gwt-sdk-list>
   </component>
 </application>
