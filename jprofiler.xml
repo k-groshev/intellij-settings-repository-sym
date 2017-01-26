@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateCache" checksum="1449122616894">
+    <jvm name="C:\Program Files\Java\jdk1.8.0_73" value="-agentpath:C:\Users\KGroshev\DOWNLO~1\EJTECH~1.1-X\JPROFI~1\bin\WINDOW~1\jprofilerti.dll=${PARAM} -Djprofiler.64bit=true" />
+  </component>
+</application>
