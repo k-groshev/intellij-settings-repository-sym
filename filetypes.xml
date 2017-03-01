@@ -17,6 +17,7 @@
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="h2" type="PLAIN_TEXT" />
       <mapping pattern="default_h2" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="base64" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
