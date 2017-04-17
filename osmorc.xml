@@ -1,0 +1,14 @@
+<application>
+  <component name="Osmorc">
+    <option name="frameworkInstanceDefinitions">
+      <list>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="C:\Symtavision\eclipse-rcp-neon-win32-x86_64_all" />
+          <option name="frameworkIntegratorName" value="Equinox" />
+          <option name="name" value="Equinox" />
+          <option name="version" value="3.11.0.v20160603-1336" />
+        </FrameworkInstanceDefinition>
+      </list>
+    </option>
+  </component>
+</application>
