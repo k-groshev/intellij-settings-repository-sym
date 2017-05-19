@@ -719,4 +719,13 @@
       <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.6.0" />
     </gwt-sdk-list>
   </component>
+  <component name="libraryTable">
+    <library name="felix">
+      <CLASSES>
+        <root url="jar://C:/java_ee/apps/HelloWorldOSGi/ff/felix.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
 </application>
