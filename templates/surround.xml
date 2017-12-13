@@ -10,4 +10,10 @@
       <option name="GROOVY_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="time" value="long startTime = System.nanoTime();&#10;try {&#10;    $SELECTION$&#10;} finally {&#10;    $LOGGER$.debug(&quot;took {} ms&quot;,TimeUnit.NANOSECONDS.toMillis(System.nanoTime() - startTime));                 &#10;}" description="time measure with console output" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="LOGGER" expression="variableOfType(&quot;org.slf4j.Logger&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
