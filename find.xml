@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'TraceViewer'" />
+    <option name="defaultScopeName" value="Project 'TraceViewer'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'TraceViewer'" />
     <recentFileMasks>
       <mask>*.css</mask>
       <mask>*Dao*.java</mask>
