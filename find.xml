@@ -4,17 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Message.java" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*Dao*.java</mask>
-      <mask>*.java, *.xml</mask>
-      <mask>*.jsp</mask>
-      <mask>*.gradle</mask>
-      <mask>*.xml</mask>
-      <mask>*.jav</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*T</mask>
       <mask>*Te</mask>
       <mask>*Tes</mask>
       <mask>*Test</mask>
@@ -29,12 +20,22 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*M.java</mask>
       <mask>*Ma.java</mask>
       <mask>*Map.java</mask>
       <mask>*Mapp.java</mask>
       <mask>*Mappe.java</mask>
       <mask>*Mapper.java</mask>
+      <mask>*Q.java</mask>
+      <mask>*Qu.java</mask>
+      <mask>*Queue.java</mask>
+      <mask>*QueueT.java</mask>
+      <mask>*QueueTy.java</mask>
+      <mask>*QueueTyp.java</mask>
+      <mask>*QueueType.java</mask>
+      <mask>*M.java</mask>
+      <mask>*Me.java</mask>
+      <mask>*Mes.java</mask>
+      <mask>*Message.java</mask>
     </recentFileMasks>
   </component>
 </application>
