@@ -4,8 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*Te</mask>
       <mask>*Tes</mask>
       <mask>*Test</mask>
       <mask>*Test.</mask>
@@ -35,6 +35,7 @@
       <mask>*Me.java</mask>
       <mask>*Mes.java</mask>
       <mask>*Message.java</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
