@@ -8,7 +8,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -17,5 +16,6 @@
     <mask>*.PY</mask>
     <mask>*export*</mask>
     <mask>*.ts</mask>
+    <mask>*.java</mask>
   </component>
 </application>
