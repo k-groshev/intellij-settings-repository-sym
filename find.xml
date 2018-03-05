@@ -16,5 +16,6 @@
     <mask>*export*.java</mask>
     <mask>*.PY</mask>
     <mask>*export*</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
