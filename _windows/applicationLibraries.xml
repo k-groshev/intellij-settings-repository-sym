@@ -721,9 +721,7 @@
   </component>
   <component name="libraryTable">
     <library name="Clover IDEA Plugin">
-      <CLASSES>
-        <root url="jar://$APPLICATION_PLUGINS_DIR$/clover-idea-4.2.1.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
