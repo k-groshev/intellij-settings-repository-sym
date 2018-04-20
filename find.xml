@@ -20,5 +20,6 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*Repository.java</mask>
+    <mask>*DO.java</mask>
   </component>
 </application>
