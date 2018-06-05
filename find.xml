@@ -19,11 +19,11 @@
     <mask>*export*</mask>
     <mask>*.ts</mask>
     <mask>*Repository.java</mask>
-    <mask>*Controller.java</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*DO.java</mask>
     <mask>*Mapper.java</mask>
     <mask>*Test.java</mask>
+    <mask>*Controller.java</mask>
   </component>
 </application>
