@@ -6,7 +6,7 @@
           <option name="hostUrl" value="http://172.26.1.55:9000" />
           <option name="name" value="http://172.26.1.55:9000" />
           <option name="login" value="kgroshev" />
-          <password>dff9dfdfdfdadfcfdfd8dfc4dfcbdfdedfdfdfd8dfcbdfc6df9d</password>
+          <password>dff9dfdfdfdadfcfdfd8dfc4dfcbdfdedfdfdfd8dfcbdfc6df92</password>
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
