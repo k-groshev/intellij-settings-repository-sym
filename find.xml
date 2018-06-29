@@ -23,5 +23,6 @@
     <mask>*Mapper.java</mask>
     <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
