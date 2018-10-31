@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="k-groshev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://adc.luxoft.com" />
+          <option name="userName" value="kgroshev" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
