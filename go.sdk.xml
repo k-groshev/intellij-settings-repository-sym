@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="" />
         <option value="C:/java_ee/soft/go" />
       </set>
     </sdk-path>
