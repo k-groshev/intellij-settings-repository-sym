@@ -1,0 +1,9 @@
+<application>
+  <component name="GoDep">
+    <exec-paths>
+      <list>
+        <option value="C:\Users\kgroshev\go\bin\dep.exe" />
+      </list>
+    </exec-paths>
+  </component>
+</application>
