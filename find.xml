@@ -27,5 +27,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*Request.java</mask>
+    <mask>application-test*</mask>
   </component>
 </application>
