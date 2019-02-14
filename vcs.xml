@@ -10,6 +10,10 @@
           <option name="url" value="http://adc.luxoft.com" />
           <option name="userName" value="kgroshev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://adc.luxoft.com/" />
+          <option name="userName" value="kgroshev" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
