@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Mapper.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,10 +20,10 @@
     <mask>*Repository.java</mask>
     <mask>*.yml</mask>
     <mask>*DO.java</mask>
-    <mask>*Mapper.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>*Mapper.java</mask>
   </component>
 </application>
