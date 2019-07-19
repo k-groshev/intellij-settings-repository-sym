@@ -22,6 +22,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="ahamemnon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="k-groshev" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
